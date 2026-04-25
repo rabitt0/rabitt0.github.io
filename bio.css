@@ -29,7 +29,7 @@
 body {
   font-family: "JetBrains Mono", "Fira Code", monospace;
   color: var(--nord4);
-  background: url("px/cpl.jpg") no-repeat center center fixed;
+  background: url("px/pop.jpg") no-repeat center center fixed;
   background-size: cover;
   line-height: 1.6;
 }
