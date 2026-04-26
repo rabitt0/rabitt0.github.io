@@ -1,0 +1,22 @@
+<rss version="2.0">
+	<channel>
+		<title>
+			/home/rabitt0/feed/
+		</title>
+		<description>
+			Rabitt0's personal site
+		</description>
+
+		<item>
+			<title>
+				bio
+			</title>
+			<link>
+				https://rabitt0.github.io/bio.html
+			</link>
+			<description>
+				Added bio
+			</description>
+		</item>
+	</channel>
+</rss>
